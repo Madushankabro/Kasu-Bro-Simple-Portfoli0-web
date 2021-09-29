@@ -1,0 +1,199 @@
+html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: sans-serif;
+    font-size: 26pt;
+    background: linear-gradient(#0e00ff, #e0ff00);
+    padding: 20px;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 15pt;
+    color: #fff;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+  }
+  
+  h1 span {
+    border: 1px solid #666666;
+    border-radius: 5px;
+    background-image: url("https://media.giphy.com/media/TqkuOoKtmYI80/giphy.gif?cid=ecf05e47e2lanyquclfi4dsdc6z5m1wbshiwxii8n1b79ygl&rid=giphy.gif&ct=g");
+    padding: 12px;
+  }
+  
+  p {
+    padding: 0;
+    margin: 0;
+    color: #000000;
+    font-size: 30px;
+  }
+  
+  .img-circle {
+    border: 2px solid white;
+    border-radius: 50%;
+  }
+  
+  .section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+  }
+  
+  #header {
+    background-image: url("https://media.giphy.com/media/TqkuOoKtmYI80/giphy.gif?cid=ecf05e47e2lanyquclfi4dsdc6z5m1wbshiwxii8n1b79ygl&rid=giphy.gif&ct=g");
+    background-size: cover;
+  }
+  
+  #header img {
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+  }
+  
+  #header p {
+    font-size: 60pt;
+    color: #ffffff;
+    padding-top: 8px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+    color: grey;
+  }
+  
+  #res {
+    text-align: center;
+    margin: 50px auto;
+    font-size: 20px;
+  }
+  
+  #res a {
+    margin: 20px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .selected {
+    background-color: #eb3700;
+    font-weight: bold;
+    color: white;
+  }
+  
+  li {
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #efefef;
+  }
+  
+  progress::-webkit-progress-bar {
+    background: #efefef;
+  }
+  
+  progress::-webkit-progress-value {
+    background: #3fb6b2;
+  }
+  
+  progress::-moz-progress-bar {
+    color: #3fb6b2;
+    background: #efefef;
+  }
+  
+  iframe,
+  audio {
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #3fb6b2;
+    border-radius: 10px;
+  }
+  
+  hr {
+    border: 0;
+    height: 1px;
+    background: #f36f48;
+  }
+  
+  input {
+    text-align: center;
+    font-size: 25pt;
+    border: none;
+    border-radius: 12px;
+    padding: 30px 8%;
+    margin: 20px 5px 10px 5px;
+    background-color: #d7d7d7;
+  }
+  
+  input:focus {
+    background-color: #2f2f2f;
+    color: white;
+  }
+  
+  form {
+    text-align: center;
+    font-size: 30pt;
+    font-family: Helvetica;
+    font-weight: 500;
+    margin: 10% 15% 8% 15%;
+    border-radius: 12px;
+  }
+  
+  #insta-image {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border: 5px solid #d7d7d7;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: -75px;
+  }
+  
+  #contacts img {
+    height: 150px;
+    width: 150px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  
+  #contacts a {
+    text-decoration: none;
+  }
+  
+  #contacts img:hover {
+    opacity: 0.8;
+  }
+  
+  #contacts {
+    text-align: center;
+  }
+  
+  .copyright {
+    font-size: 6pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+  }
+  .h2 span{
+      font-size: 15pt;
+      color: #ffffff;
+      text-align: center;
+      padding: 18px 0 18px 0;
+      margin: 0 0 10px 0
+  }
